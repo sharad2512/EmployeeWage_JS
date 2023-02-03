@@ -1,1 +1,0 @@
-console.log("Welcome Message To Employee Wage Program")
